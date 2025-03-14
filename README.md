@@ -1,4 +1,4 @@
-## Analysis of Myntra Apparel
+# Analysis of Myntra Apparel
 This project focuses on analysing Myntra’s apparel dataset to gain insights into pricing, discounts, ratings, and available sizes to optimize product listings and enhance customer satisfaction.
 
 ### Problem Statement:
@@ -11,5 +11,5 @@ Data Retrieval: Implemented VLOOKUP, INDEX-MATCH, and nested XLOOKUP functions t
 Tools & Techniques:
 Excel functions: AVERAGEIF, COUNTIF, IF, VLOOKUP, INDEX, MATCH, XLOOKUP
 
-# Conclusion:
+### Conclusion:
 The project provided insights into discount patterns, product availability, and efficient data retrieval, helping improve sales strategies and user experience.
